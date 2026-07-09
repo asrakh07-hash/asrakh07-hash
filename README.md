@@ -1,8 +1,8 @@
 ## Hello, I'm Asra Akhundzadah 
 
-⟡ Sophomore Computer Science Student
-⟡ Building my knowledge and confidence in my abilities!
-⟡ Currently working on a mini-game 
+⟡ Sophomore Computer Science Student \
+⟡ Building my knowledge and confidence in my abilities! \
+⟡ Currently working on a mini-game \
 ⟡ Fun fact: I love video games :)
 
 ### Languages
