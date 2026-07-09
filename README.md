@@ -7,8 +7,8 @@
 
 ### Languages
 
-![Java](https://shields.io)
-![Python](https://shields.io)
+![Java](https://shields.io) \
+![Python](https://shields.io) \
 ![C++](https://shields.io)
 
 
